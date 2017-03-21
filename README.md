@@ -1,5 +1,5 @@
-# [TabChi](http://yon.ir/4cR3)
-2	* **Install Bot**
-3	`````sh
-4	yon.ir/4cR3
-5	`````
+[TabChi](http://yon.ir/qtrVN)
+**Install Bot**
+`````sh
+yon.ir/4cR3
+`````
